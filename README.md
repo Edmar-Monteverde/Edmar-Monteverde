@@ -1,3 +1,5 @@
+🌍 Idiomas: [Português](README.pt.md)
+
 # 👋 Hola, soy Edmar
 
 🐍 **Desarrollador Python Junior**  
