@@ -1,6 +1,6 @@
 🌍 Idiomas: [Português](README.pt.md)
 
-# 👋 Hola, soy Edmar
+# 👋 Perfil profesional y proyectos destacados de Edmar Monteverde.
 
 🐍 **Desarrollador Python Junior**  
 🎓 Formación completada en Python  
