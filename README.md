@@ -22,7 +22,7 @@ Valoro la constancia, la disciplina y el crecimiento a largo plazo.
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** Python, HTML (en aprendizaje)  
+- **Lenguajes:** Python, HTML, CSS (en aprendizaje)  
 - **Herramientas:** Git, GitHub, VS Code  
 - **Entorno:** Linux (WSL), Windows  
 - **Conceptos:** Programación orientada a objetos (OOP), principios SOLID básicos, manejo de archivos, scripting
