@@ -36,6 +36,17 @@ Valorizo a consistência, a disciplina e o crescimento a longo prazo.
 
 ---
 
+## Projetos em destaque
+
+- Conversor de Artigos para MP3
+  Extrai texto a partir de uma URL e converte em arquivos MP3 utilizando gTTS.
+
+- Gestor de Despesas Automatizado
+  Processa arquivos CSV, agrupa categorias, calcula totais e exporta resumos.
+
+- Organizador e Auditor de Arquivos
+  Analisa pastas, agrupa por extensão e gera relatórios em CSV.
+
 ## 📫 Contacto
 
 - GitHub: https://github.com/tu-usuario
