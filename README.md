@@ -1,10 +1,10 @@
 🌍 Idiomas: [Português](README.pt.md)
 
-# 👋 Hola, soy Edmar Monteverde
+# 👋 Olá, sou Edmar Monteverde
 
-Junior Python Developer enfocado en automatización, herramientas CLI y desarrollo backend en formación.
+Desenvolvedor Python Júnior focado em automação, ferramentas CLI e desenvolvimento backend em formação.
 
-Actualmente construyo proyectos reales con Python, Git y Linux, mientras avanzo en frontend con HTML y CSS.
+Atualmente desenvolvo projetos reais com Python, Git e Linux, enquanto avanço nos estudos de frontend com HTML e CSS.
 
 ---
 
